@@ -13,8 +13,6 @@ const App = () => (
   <div className="container my-5">
     <Suspense fallback={<Loader />}>
       <ProfileDetails resource={resource} />
-    </Suspense>
-    <Suspense fallback={<Loader />}>
       <Posts resource={resource} />
     </Suspense>
   </div>
