@@ -2,7 +2,7 @@
   "name": "concurrent-mode",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ocardenasg/react-concurrent-mode",
+  "homepage": "https://ocardenasg.github.io/react-concurrent-mode",
   "dependencies": {
     "react": "0.0.0-experimental-b53ea6ca0",
     "react-dom": "0.0.0-experimental-b53ea6ca0",
