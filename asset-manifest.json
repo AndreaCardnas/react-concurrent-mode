@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ocardenasg/react-concurrent-mode/static/css/main.084994a9.chunk.css",
+    "main.js": "/ocardenasg/react-concurrent-mode/static/js/main.38177831.chunk.js",
+    "main.js.map": "/ocardenasg/react-concurrent-mode/static/js/main.38177831.chunk.js.map",
+    "runtime-main.js": "/ocardenasg/react-concurrent-mode/static/js/runtime-main.a62816dd.js",
+    "runtime-main.js.map": "/ocardenasg/react-concurrent-mode/static/js/runtime-main.a62816dd.js.map",
+    "static/js/2.ad54fdeb.chunk.js": "/ocardenasg/react-concurrent-mode/static/js/2.ad54fdeb.chunk.js",
+    "static/js/2.ad54fdeb.chunk.js.map": "/ocardenasg/react-concurrent-mode/static/js/2.ad54fdeb.chunk.js.map",
+    "static/js/3.82427a13.chunk.js": "/ocardenasg/react-concurrent-mode/static/js/3.82427a13.chunk.js",
+    "static/js/3.82427a13.chunk.js.map": "/ocardenasg/react-concurrent-mode/static/js/3.82427a13.chunk.js.map",
+    "static/js/4.7a33099f.chunk.js": "/ocardenasg/react-concurrent-mode/static/js/4.7a33099f.chunk.js",
+    "static/js/4.7a33099f.chunk.js.map": "/ocardenasg/react-concurrent-mode/static/js/4.7a33099f.chunk.js.map",
+    "index.html": "/ocardenasg/react-concurrent-mode/index.html",
+    "precache-manifest.fd7ebe578dfeccc24ae9f4f44ff34fca.js": "/ocardenasg/react-concurrent-mode/precache-manifest.fd7ebe578dfeccc24ae9f4f44ff34fca.js",
+    "service-worker.js": "/ocardenasg/react-concurrent-mode/service-worker.js",
+    "static/css/main.084994a9.chunk.css.map": "/ocardenasg/react-concurrent-mode/static/css/main.084994a9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a62816dd.js",
+    "static/js/2.ad54fdeb.chunk.js",
+    "static/css/main.084994a9.chunk.css",
+    "static/js/main.38177831.chunk.js"
+  ]
+}
