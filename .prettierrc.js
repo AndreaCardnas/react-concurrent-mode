@@ -5,7 +5,7 @@ module.exports = {
   jsxSingleQoute: true,
   arrowParens: 'always',
   singleQuote: true,
-  printWidth: 100,
+  printWidth: 80,
   useTabs: false,
   semi: true,
 };

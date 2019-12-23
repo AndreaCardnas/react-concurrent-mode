@@ -1,19 +1,16 @@
 import React from 'react';
+import { ListGroup, ListGroupItem } from 'shards-react';
 
-const Posts = ({ resource }) => {
+export default function Posts({ resource }) {
   const posts = resource.posts.read();
   return (
-    <ul className="list-group">
-      <li className="list-group-item">
-        <strong>Latest Posts</strong>
-      </li>
-      {posts.map((post) => (
-        <li key={post.id} className="list-group-item">
-          {post.title}
-        </li>
-      ))}
-    </ul>
+    <section>
+      <h3>Latest Posts</h3>
+      <ListGroup>
+        {posts.map((post) => (
+          <ListGroupItem key={post.id}>{post.title}</ListGroupItem>
+        ))}
+      </ListGroup>
+    </section>
   );
-};
-
-export default Posts;
+}
