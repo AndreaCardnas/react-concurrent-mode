@@ -1,2 +1,0 @@
-(this["webpackJsonpconcurrent-mode"]=this["webpackJsonpconcurrent-mode"]||[]).push([[3],{12:function(e,t,r){"use strict";r.r(t);var s=r(0),a=r.n(s);t.default=function(e){var t=e.resource.posts.read();return a.a.createElement("ul",{className:"list-group"},a.a.createElement("li",{className:"list-group-item"},a.a.createElement("strong",null,"Latest Posts")),t.map((function(e){return a.a.createElement("li",{key:e.id,className:"list-group-item"},e.title)})))}}}]);
-//# sourceMappingURL=3.82427a13.chunk.js.map
